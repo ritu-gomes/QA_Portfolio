@@ -30,7 +30,6 @@ This repository showcases my practical skills in Manual Software Testing through
 - Test Cases
 - Bug Reports
 - Regression Testing
-- API Testing
 - Test Reports
 
 > **Note:** All documents in this repository are created using demo applications and do not contain any confidential information from employers or clients.
